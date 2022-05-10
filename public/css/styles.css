@@ -15,6 +15,10 @@
     color: #1abc9c !important;
 }
 
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
